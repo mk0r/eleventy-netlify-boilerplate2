@@ -1,12 +1,14 @@
 ---
 title: About us
+date: 2017-01-01T00:00:00.000Z
+permalink: /about/index.html
+navtitle: About
 tags:
   - nav
-navtitle: About
-section: about
-date: 2017-01-01
-permalink: /about/index.html
 ---
+This is pretty great
+
+![](/static/img/frame-29-12-2017-02-06-38.jpg)
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
